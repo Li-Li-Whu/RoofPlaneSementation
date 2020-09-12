@@ -11,7 +11,7 @@ Please download it and run the "bin\planeExtractionTest.exe" as follow:
 "0.01" is one of the parameters in the approach.  We suggest to set as 0.01 for the test data. You may need to tun this parameter for your dataset.
 
 
-The source code has been uploaded!
+This program is free for personal, non-profit and academic use.
 
 
 
