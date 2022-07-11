@@ -17,5 +17,7 @@ The code is organized with the use of Cmake. If you want to compole this code, y
 
 This program is free for personal, non-profit and academic use. If you find this code is useful, please cite our paper. Thank you!
 
+Email: li.li@whu.edu.cn
+
 
 
